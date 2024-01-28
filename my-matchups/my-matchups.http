@@ -1,0 +1,6 @@
+@my_matchups_HostAddress = http://localhost:5062
+
+GET {{my_matchups_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
